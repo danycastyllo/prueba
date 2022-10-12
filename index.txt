@@ -1,0 +1,4 @@
+arma 1
+arma 2
+arma 3
+arma 4
