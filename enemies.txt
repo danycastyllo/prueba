@@ -1,3 +1,6 @@
 enemy 1, 2, 3
 
 daño: 20
+daño: 20
+daño: 20
+daño: 20
